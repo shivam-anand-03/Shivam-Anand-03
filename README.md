@@ -1,170 +1,180 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shivam%20Anand&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Builder%20%7C%20SaaS%20Architect&descAlignY=58&descSize=18&descColor=a78bfa"/>
+<!-- ===== ANIMATED HEADER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Shivam%20Anand&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20SaaS%20Architect&descAlignY=56&descSize=18&descColor=a78bfa"/>
 
-<!-- Typing animation -->
+<!-- ===== TYPING ANIMATION ===== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI-Powered+SaaS+Platforms+%F0%9F%9A%80;Full-Stack+Dev+%7C+Next.js+%2B+Node.js+%2B+Python;Backend+Architect+%7C+Redis+%2B+PostgreSQL;GenAI+%7C+RAG+%7C+LangChain+%F0%9F%A4%96;Mechanical+Engineer+%E2%86%92+Software+Developer+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-Powered+SaaS+Platforms+%F0%9F%9A%80;Full-Stack+Dev+%7C+Next.js+%2B+Node.js+%2B+Python;Backend+Architect+%7C+Redis+%2B+PostgreSQL;GenAI+%7C+RAG+%7C+LangChain+%F0%9F%A4%96;Mechanical+Engineer+%E2%86%92+Software+Developer+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Social Badges -->
+<!-- ===== BADGES ===== -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Shivam-Anand-03&style=for-the-badge&color=7c3aed&labelColor=0f0c29&label=PROFILE+VIEWS" />
   &nbsp;
+  <a href="https://github.com/Shivam-Anand-03?tab=followers">
+    <img src="https://img.shields.io/github/followers/Shivam-Anand-03?style=for-the-badge&color=7c3aed&labelColor=0f0c29&logo=github&label=FOLLOWERS" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/shivam-anand-developer/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" />
   </a>
   &nbsp;
   <a href="mailto:shivam850anand@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shivam850anand%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Shivam-Anand-03">
-    <img src="https://img.shields.io/badge/GitHub-Shivam--Anand--03-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" />
   </a>
 </p>
 
 </div>
 
----
+<!-- ===== GRADIENT DIVIDER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
 
 ## ⚡ About Me
 
 ```typescript
-const shivam = {
+const shivam: Developer = {
   role        : "Full-Stack Engineer & AI Builder",
   location    : "Indore, India 🇮🇳",
   education   : "B.E. @ SGSITS Indore (Mechanical → turned Coder 🔄)",
   currentWork : "AI & Fullstack Developer Intern @ Xoidlabs",
   focus       : ["Scalable SaaS", "GenAI / RAG", "Backend Architecture"],
   contact     : "shivam850anand@gmail.com",
-  funFact     : "Switched from engines to algorithms — no regrets! ⚙️→💻",
+  funFact     : "Switched from engines to algorithms — no regrets! ⚙️ → 💻",
 };
 ```
 
----
+- 🔭 Currently building **AI-powered SaaS platforms** with real-time analytics
+- 🌱 Deep-diving into **LangChain, LLM fine-tuning & vector databases**
+- 💬 Ask me about **Next.js, Node.js, FastAPI, Redis & system design**
+- ⚡ Fun fact: I traded **mechanical blueprints for software architecture**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
 
 ## 💼 Experience
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🟣 Xoidlabs — AI & Fullstack Intern
-**Jul 2025 – Present**
-- Built **Trugent** — AI-powered call support platform with custom AI assistants & real-time analytics
-- Deployed SaaS apps: HPLC AI, HR & Inventory Management, Event Tools
-- Managed GCP cloud infra with Docker, Nginx & Bitbucket CI/CD
+`Jul 2025 – Present`
+- Built **Trugent** — AI-powered call-support platform with custom AI assistants & real-time analytics
+- Shipped SaaS apps: **HPLC AI, HR & Inventory Mgmt, Event Tools**
+- Managed **GCP** infra with Docker, Nginx & Bitbucket CI/CD
 - Led a **50-member annotation team**
-- **Stack:** Next.js · Node.js · FastAPI · PostgreSQL · Prisma · Redis · Pinecone · Docker · GCP
+
+**Stack:** `Next.js` `Node.js` `FastAPI` `PostgreSQL` `Prisma` `Redis` `Pinecone` `Docker` `GCP`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔵 Flexzistay — Software Developer Intern
-**Dec 2025 – Feb 2026**
+`Dec 2025 – Feb 2026`
 - Cut Google Places API costs via **Redis caching & background jobs**
-- Built scalable monorepo backend services
-- Boosted frontend via infinite scrolling & optimized DB queries
-- **Stack:** TypeScript · Next.js · Express.js · PostgreSQL · Prisma · Redis · GCP Pub/Sub · Docker
+- Built scalable **monorepo** backend services
+- Boosted frontend with **infinite scroll** & optimized DB queries
+
+**Stack:** `TypeScript` `Next.js` `Express.js` `PostgreSQL` `Prisma` `Redis` `GCP Pub/Sub` `Docker`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🟢 Upfound — Backend Developer Intern
-**May 2025 – Jul 2025**
-- Built REST APIs for a MERN-based jobseeker platform
-- JWT auth + role-based access control
+`May 2025 – Jul 2025`
+- Built REST APIs for a **MERN** jobseeker platform
+- **JWT auth** + role-based access control
 - Integrated **AWS S3, Cloudinary, Firebase Admin**
-- **Stack:** Node.js · Express · MongoDB · Redis · WebSockets
+
+**Stack:** `Node.js` `Express` `MongoDB` `Redis` `WebSockets`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ⚡ Always Building...
-- Open-source components
-- AI-integrated tools
+- Open-source components & UI libraries
+- AI-integrated developer tools
 - Side projects & SaaS experiments
-- Exploring **LangChain, LLM fine-tuning & vector DBs**
+- Exploring **LangChain, RAG & vector DBs**
+
+**Mindset:** `Ship fast` `Scale smart` `Stay curious`
 
 </td>
 </tr>
 </table>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech |
-|--------|-------------|------|
-| 📧 **AI Mailing SaaS** | AI-powered bulk email campaigns with personalization, multi-inbox sync & smart analytics | Next.js · TypeScript · tRPC · PostgreSQL · Redis · AI |
-| ⚖️ **Legal Management SaaS** | Role-based legal platform with AI document generation, summarization & case management | Next.js · Express · GraphQL · Prisma · MySQL · Gemini AI |
-| 🎨 **Clamp UI** | Accessible component library — 60fps animations, ShadCN-style CLI, <15kB bundle, WCAG 2.1 | React · Framer Motion · TypeScript |
+|:--------|:------------|:-----|
+| 📧 **AI Mailing SaaS** | AI-powered bulk email campaigns with personalization, multi-inbox sync & smart analytics | `Next.js` `tRPC` `PostgreSQL` `Redis` `AI` |
+| ⚖️ **Legal Management SaaS** | Role-based legal platform with AI document generation, summarization & case management | `Next.js` `GraphQL` `Prisma` `MySQL` `Gemini` |
+| 🎨 **Clamp UI** | Accessible component library — 60fps animations, ShadCN-style CLI, `<15kB` bundle, WCAG 2.1 | `React` `Framer Motion` `TypeScript` |
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
-
+### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Frontend**
-
+### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-**Backend**
-
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-**Databases & Caching**
-
+### Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-**AI / ML**
-
+### AI / ML
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-**Cloud & DevOps**
-
+### Cloud & DevOps
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-181717?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-181717?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br/>
+
+<!-- Quick-glance icon strip -->
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,nextjs,react,tailwind,redux,nodejs,express,fastapi,graphql,nestjs,postgres,mongodb,redis,mysql,prisma,gcp,aws,docker,nginx,linux&perline=12" />
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
 
 ## 📊 GitHub Stats
 
@@ -178,19 +188,32 @@ const shivam = {
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam-Anand-03&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa"/>
 </div>
 
+<!-- ===== CONTRIBUTION SNAKE (needs the workflow — see setup note below) ===== -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam-Anand-03&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" width="90%"/>
+  <img width="90%" src="https://raw.githubusercontent.com/Shivam-Anand-03/Shivam-Anand-03/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
----
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam-Anand-03&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true"/>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shivam-Anand-03&theme=radical&no-frame=true&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shivam-Anand-03&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
+
+## 💡 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2"/>
 
 ## 📫 Let's Connect
 
@@ -210,8 +233,9 @@ const shivam = {
 
 <br/><br/>
 
-> *"From mechanical blueprints to software architecture — building systems that scale."* ⚙️→🚀
+> *"From mechanical blueprints to software architecture — building systems that scale."* ⚙️ → 🚀
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+<!-- ===== ANIMATED FOOTER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=a78bfa&fontAlignY=70"/>
